@@ -12,7 +12,7 @@ Identifique, em torno de, 5 personas. Para cada persona, lembre-se de descrever 
 
 Utilize também como referência o exemplo abaixo:
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/IntApplicationProject-Template/blob/main/docs/img/AnaClara1.png" alt="Persona1"/>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/IntApplicationProject-Template/blob/main/docs/img/AnaPaula_Persona.png" alt="Persona1"/
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
