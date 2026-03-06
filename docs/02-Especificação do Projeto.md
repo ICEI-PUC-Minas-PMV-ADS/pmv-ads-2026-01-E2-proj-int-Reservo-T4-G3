@@ -11,8 +11,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ### Persona 1 -  Ana Paula Ribeiro (Cliente)
 |  |  |  |
 |------|------|-----------|
-| <img width="300" height="300" alt="persona1" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-01-E2-proj-int-Reservo-T4-G3/blob/main/docs/img/AnaPaula_Persona.png">  | Ana Paula Ribeiro | Idade: 29 anos<br>Profissão: Analista de Marketing<br>Localização: Belo Horizonte – MG<br>Tecnologia: Alta familiaridade com aplicativos e serviços digitais<br>Frustração atual: Precisa entrar em contato via WhatsApp, Instagram ou telefone para agendar serviços simples. Muitas vezes não recebe retorno imediato. |
-
+| <img width="500" height="500" alt="persona1" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-01-E2-proj-int-Reservo-T4-G3/blob/main/docs/img/AnaPaula_Persona.png">  | Ana Paula Ribeiro | Idade: 29 anos<br>Profissão: Analista de Marketing<br>Localização: Belo Horizonte – MG<br>Formação: Graduação em Marketing e Propaganda<br>Objetivos: Qualidade de vida e cada vez menos tempo gasto em atividades de gerenciamento de suas tarefas. |
+| DESCRIÇÃO | DORES | EXPECTATIVAS |
+|-----------|-------|--------------|
+|Ana Paula tem 29 anos e trabalha como analista de marketing. Possui alta familiaridade com tecnologias digitais e utiliza frequentemente aplicativos para resolver tarefas do dia a dia, como transporte, compras e serviços. Ela valoriza praticidade, rapidez e autonomia ao contratar serviços. |Ana enfrenta dificuldades ao tentar agendar serviços simples, pois muitas vezes precisa entrar em contato com profissionais por diferentes canais, como WhatsApp ou redes sociais. Isso gera demora nas respostas, falta de clareza sobre horários disponíveis e necessidade de múltiplas trocas de mensagens para confirmar um agendamento.| Ana espera encontrar uma plataforma que permita visualizar serviços disponíveis, consultar horários e realizar agendamentos de forma rápida e direta. Para ela, é importante ter autonomia para cancelar ou remarcar compromissos, além de receber lembretes automáticos para evitar esquecimentos.|
 
 
 ## Histórias de Usuários
