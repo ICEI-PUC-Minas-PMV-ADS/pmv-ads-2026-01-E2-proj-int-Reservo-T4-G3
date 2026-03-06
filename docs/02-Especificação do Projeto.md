@@ -108,10 +108,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID|Título| Restrição |
+|--|------|---------- |
+|**01**|**Plataforma Web**| O sistema deverá ser desenvolvido como uma aplicação web, acessível por navegadores de internet, não contemplando inicialmente o desenvolvimento de aplicativos nativos para dispositivos móveis. |
+|**02**|**Escopo limitado de funcionalidades**|O sistema terá foco exclusivamente no gerenciamento e intermediação de agendamentos, não incluindo funcionalidades avançadas como processamento de pagamentos online ou integração com sistemas externos de faturamento.|
+|**03**|**Controle de acesso por autenticação**|O acesso às funcionalidades principais do sistema será restrito a usuários cadastrados e autenticados, sendo necessário criar uma conta para realizar agendamentos ou gerenciar serviços.|
+|**04**|**Gestão de agenda baseada em disponibilidade do profissional**|Os agendamentos só poderão ser realizados de acordo com os horários previamente definidos pelos profissionais, respeitando a disponibilidade configurada na agenda.|
+|**05**|**Ambiente acadêmico de desenvolvimento**|O sistema será desenvolvido no contexto de um projeto acadêmico, o que implica limitações de tempo, recursos e complexidade tecnológica durante sua implementação.|
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
