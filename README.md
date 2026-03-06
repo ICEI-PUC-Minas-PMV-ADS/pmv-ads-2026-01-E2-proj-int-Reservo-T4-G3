@@ -17,10 +17,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Priscilla Avelino dos Santos
 * Samuel Meira Miglioli
 
-
 ## Orientador
 
-* Nome completo do professor
+* Carlos Alberto Marques Pietrobon
 
 ## Instruções de Instalação, Execução e Acesso
 
