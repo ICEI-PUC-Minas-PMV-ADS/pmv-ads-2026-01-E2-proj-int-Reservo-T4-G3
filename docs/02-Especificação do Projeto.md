@@ -29,6 +29,20 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 | **Descrição** | **Dores** | **Expectativas** |
 |Carla Mendes tem 41 anos e atua como cabeleireira e maquiadora. Ela administra seu próprio negócio e atende clientes em um pequeno salão. Embora utilize aplicativos de mensagens para comunicação com clientes, ainda mantém parte de sua agenda em anotações manuais. | Carla frequentemente enfrenta problemas de organização da agenda, pois registra compromissos tanto em papel quanto em aplicativos de mensagens. Isso pode gerar conflitos de horário, dificuldade para divulgar serviços e falta de lembretes para clientes, o que resulta em faltas ou atrasos nos atendimentos. | Carla espera contar com uma plataforma simples e intuitiva que permita organizar sua agenda, apresentar seus serviços de forma clara e automatizar lembretes de atendimento para os clientes. Com isso, ela pretende melhorar a experiência de seus clientes e tornar a gestão de seu trabalho mais eficiente. |
 
+### Persona 4 – Lucas Ferreira (Cliente)
+|  |  |  |
+|------|------|-----------|
+| <img width="500" height="500" alt="persona2" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-01-E2-proj-int-Reservo-T4-G3/blob/main/docs/img/Persona3.png">  | **Lucas Ferreira** | **Idade:** 23 anos<br>**Profissão:** Estudante Universitário<br>**Localização:** Uberlândia – MG<br>**Formação:** Estudante de Direito<br>**Objetivo:** Formar-se dentro de 2 semestres e iniciar a prestação de concursos públicos.|
+| **Descrição** | **Dores** | **Expectativas** |
+|Lucas é estudante universitário e utiliza frequentemente aplicativos para organizar sua rotina, realizar pagamentos e contratar serviços. Ele valoriza rapidez e praticidade nas soluções digitais, preferindo resolver tarefas diretamente pelo celular. | Lucas considera cansativo precisar trocar várias mensagens para conseguir agendar um serviço simples, como corte de cabelo ou aulas particulares. Muitas vezes ele encontra dificuldades para descobrir horários disponíveis ou confirmar um agendamento rapidamente.| Lucas espera encontrar uma plataforma que permita pesquisar serviços próximos, visualizar horários disponíveis e agendar atendimentos em poucos passos. Ele também valoriza a possibilidade de consultar avaliações de outros usuários antes de escolher um profissional. |
+
+### Persona 5 – Mariana Costa (Profissional Autônoma)
+|  |  |  |
+|------|------|-----------|
+| <img width="500" height="500" alt="persona2" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-01-E2-proj-int-Reservo-T4-G3/blob/main/docs/img/Persona3.png">  | **Mariana Costa** | **Idade:** 37 anos<br>**Profissão:** Professora de Idiomas<br>**Localização:** Contagem – MG<br>**Formação:** Graduação em Letras<br>**Objetivo:** Criar sua própria escola de línguas dentro de 2 anos.|
+| **Descrição** | **Dores** | **Expectativas** |
+|Mariana trabalha oferecendo aulas particulares de inglês e espanhol para diferentes alunos ao longo da semana. Ela utiliza aplicativos de mensagens para organizar horários e manter contato com seus alunos, além de utilizar anotações simples para controle da agenda. | Mariana enfrenta dificuldades para organizar sua agenda quando vários alunos solicitam horários diferentes ao mesmo tempo. A gestão manual dos agendamentos pode gerar confusão, esquecimentos e retrabalho ao confirmar horários.| Mariana enfrenta dificuldades para organizar sua agenda quando vários alunos solicitam horários diferentes ao mesmo tempo. A gestão manual dos agendamentos pode gerar confusão, esquecimentos e retrabalho ao confirmar horários.|
+
 
 ## Histórias de Usuários
 
